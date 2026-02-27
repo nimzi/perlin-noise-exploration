@@ -6,7 +6,7 @@ This notebook walks through the mathematical foundations of Perlin noise, starti
 
 ## View Online
 
-[View the rendered notebook](http://chessimprovement.club/perlin-noise-exploration/)
+[View the rendered notebook](https://perlin-noise-exploration.pages.dev)
 
 ## Setup
 
