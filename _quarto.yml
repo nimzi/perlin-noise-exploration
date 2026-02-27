@@ -1,0 +1,4 @@
+format:
+  html:
+    theme: solar
+    embed-resources: true
