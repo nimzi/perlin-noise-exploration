@@ -4,6 +4,10 @@ Exploring Perlin noise fundamentals with Python and Jupyter notebooks.
 
 This notebook walks through the mathematical foundations of Perlin noise, starting from linear interpolation and building up to gradient noise with smoothstep functions.
 
+## View Online
+
+[View the rendered notebook](http://chessimprovement.club/perlin-noise-exploration/)
+
 ## Setup
 
 1. Create a virtual environment:
